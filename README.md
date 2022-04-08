@@ -14,3 +14,7 @@ comando push, para subir el proyecto  a github
 ya use el comando fetch, comprobar si hay algún cambio disponible
 
 > git fetch
+
+comando pull, para bajar las modificacione desde github
+
+> git pull origin developer
