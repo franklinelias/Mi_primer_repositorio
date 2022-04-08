@@ -5,3 +5,7 @@ ya bajerepositorio a mi pc local
 
 use el comando
 git clone https://github.com/franklinelias/Mi_primer_repositorio.git
+
+comando push, para subir el proyecto  github
+
+git push origin main
