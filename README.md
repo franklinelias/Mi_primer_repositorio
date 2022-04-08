@@ -11,6 +11,6 @@ comando push, para subir el proyecto  a github
 > git push origin main
 
 
-ya use el comando fetch, para actualizar de la nube a local
+ya use el comando fetch, comprobar si hay algún cambio disponible
 
 > git fetch
